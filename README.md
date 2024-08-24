@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/375f4659-2024-4b30-ba63-a1d3a9f6fa18)###  DATE: 24.08.24
+###  DATE: 24.08.24
 
 ###  NAME: madhuvathani.v
 ###  ROLL NO :212223040107
